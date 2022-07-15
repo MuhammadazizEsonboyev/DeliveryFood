@@ -19,6 +19,7 @@ import DebitCard from "./Components/DebitCard";
 import SubMenuContainer from "./Components/SubMenuContainer";
 import CartItem from "./Components/CartItem";
 import { useStateValue } from "./Components/StateProvider";
+salom
 
 function App() {
   const [isMainData, setMainData] = useState(
